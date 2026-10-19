@@ -11,5 +11,5 @@ void main()
     
     printf("The value of z is: %d", z);
     
-    getch(); // Screen ko roke rakhne ke liye
+    getch();
 }
